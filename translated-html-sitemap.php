@@ -4,12 +4,10 @@ Plugin Name: translated HTML Sitemap
 Plugin URI: http://www.translatedinfotech.com/our-work/translated-html-sitemap/
 Description: translated HTML Sitemap will generate HTML (not XML) sitemap for your sitemap page. The plugin will not only show Page and Posts but also your other Custom Post Type like Products etc. top. You can also configure to show or hide your Post Types. You just need to create a page for Sitemap and insert our shortcode <code>[translated-sitemap]</code> to display HTML sitemap. You can get support at http://forum.translatedinfotech.com/
 Version: 3.1
-Author: translated Infotech
-Author URI: http://www.translatedinfotech.com/
+Author: Fabio Brunelli
+Author URI: http://www.fabiobrunelli.it/
 License: GPL2
 */
-
-
 
 
 /*** Redirect on activation ***/
